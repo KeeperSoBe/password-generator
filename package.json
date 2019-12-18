@@ -1,0 +1,7 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "A simple Chrome extension for generating passwords",
+  "author": "James Gardiner",
+  "license": "ISC"
+}
